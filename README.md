@@ -1,1 +1,0 @@
-# Python code of BRMDA
